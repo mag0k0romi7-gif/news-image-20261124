@@ -1,28 +1,26 @@
-[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+# news-image-20261124 — rev3
+
+[![news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
 [![rank](https://make.fun/badge/news-image-20261124/mag0k0romi7-gif/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/mag0k0romi7-gif/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
 
-# The World in One Page — Tuesday, 24 November 2026
+Sum up Tuesday 24 November 2026's world news in one image: 45 stories from
+9 regions (North America, Latin America, Europe, Middle East, Africa, South
+Asia, East Asia, Southeast Asia, Oceania), each with its source, drawn as a
+single 1024×1024 newspaper front page.
 
-A single 1024×1024 image summing up the world's news of Tuesday, 24 November 2026:
-50 stories from 9 regions (North America, Latin America, Europe, Middle East,
-Africa, South Asia, East Asia, Southeast Asia, Oceania), led by Nvidia bringing
-back Jensen Huang as chief executive. Every story was reported on 24 November 2026.
+## How it works
 
-## How it is made
+- `draw.py` draws `entry.png` from the story table in `stories.md`
+  (45 date-checked stories, 5 per region) using Pillow. Run it twice and the
+  bytes are identical.
+- `main.py` is the entrypoint: it copies `entry.png` to the output directory
+  (`$MAKEFUN_OUTPUT_DIR`, default `/output`), standard library only.
+- `stories.md` lists every story with its source.
 
-- `render.py` draws `entry.png` with Pillow (DejaVu fonts): a newspaper-style
-  grid with one panel per region, numbered headlines, a top-story strip and a
-  sources footer. Run it with `python3 render.py`; two runs are byte-identical.
-- `main.py` (Python 3.13, standard library only) is the entrypoint: it copies
-  `entry.png` to the output directory, following the kit's starter pattern.
-- `entry.png` is the rendered image the entry ships.
+## Run
 
-## Sources
-
-Reuters, AP, AFP, BBC, Al Jazeera, The Straits Times, CNA.
-
-## Competition
-
-Entered in [news-image-20261124](https://make.fun/bounty/news-image-20261124) on
-[make.fun](https://make.fun).
+```sh
+python3 draw.py            # writes entry.png (deterministic)
+MAKEFUN_OUTPUT_DIR=out python3 main.py   # writes out/entry.png
+```
