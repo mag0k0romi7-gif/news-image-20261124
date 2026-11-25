@@ -1,70 +1,77 @@
-# World news — Tuesday, 24 November 2026
+# rev4 — story list (46 stories, 9 regions), all dated 24 Nov 2026
 
-45 stories, 5 per region, 9 regions. Every story happened on, or was first
-reported on, 24 November 2026 (any time zone). Sources checked via Reuters,
-AP, BBC, SCMP, Al Jazeera, The Inquirer, Kyiv Independent, WSJ, NYT,
-Politico, Grist, Times of India, UN News, Middle East Eye, Tribune,
-Business Recorder, Evening Report NZ, Breitbart, ASEANS, SRI.
+Verified 2026-11-25 via Reuters / AP / AFP / BBC / Al Jazeera / Anadolu /
+Just Security Early Edition / Horizon / International Intrigue / Gulf News /
+Yeni Safak / OneTurn. Every story below was reported on Tuesday 24 Nov 2026
+(or first reported that day); items dated 23 Nov were excluded from the count.
 
-## North America (5)
-1. Huang back at Nvidia HQ as rally fades; shares fall 6% — Reuters
-2. US consumer confidence hits near two-year high — Reuters
-3. Trump taps prosecutor who lost re-election for judgeship — Reuters
-4. Court clears Army to detonate toxic explosives in Iowa — Reuters
-5. Democrats vow to reverse Trump’s food-aid cuts — Reuters
+## TOP STORIES (also counted in their regions)
+- T1 Nvidia shares fall 7% as Huang's return rally fades (Reuters podcast + OneTurn)
+- T2 Houthi strike hits Riyadh's tallest tower, 11 injured, 2nd hit in days (Reuters/Gulf News)
+- T3 Iran: 4th tanker hit by naval mine in Strait of Hormuz; no US talks (AP via Mathrubhumi)
 
-## Latin America (5)
-1. Sheinbaum: no US troops in Sinaloa kingpin arrest — AP
-2. Brazil summons Flávio Bolsonaro for "slandering" Lula — Breitbart
-3. Maduro’s first birthday behind bars in US custody — Breitbart
-4. WHO chief pledges $2m for Cuba vaccination drive — Breitbart
-5. FIFA: US, Mexico, Costa Rica, Jamaica host 2031 World Cup — TOI
+## NORTH AMERICA (6)
+- NA1 Nvidia shares fall 7% as Huang's return rally fades a day after +31% surge
+- NA2 US jury convicts Huawei of trade-secret conspiracy and bank fraud (Brooklyn)
+- NA3 Democrats clinch largest House majority in decades — 259 seats
+- NA4 Abrego Garcia to leave US voluntarily for Spain after deportation fight
+- NA5 Trump set to unveil new tariffs after probe of excess factory capacity
+- NA6 Pennsylvania measles outbreak claims 9th death across 46 counties
 
-## Europe (5)
-1. NATO vows to defend space after Russian satellite reports — BBC
-2. Germany first to access Ukraine's Delta system — Kyiv Independent
-3. Seven states back EU push to limit Russian visas — Kyiv Independent
-4. Two held after break-in at Prince William's Norfolk home — SCMP
-5. COP31 climate talks collapse in Antalya over fossil fuels — Grist
+## LATIN AMERICA & CARIBBEAN (4)
+- LA1 Car bomb hits government HQ in Villavicencio, Colombia
+- LA2 Drones strike police command in Cucuta, Colombia; 3 hurt, 60 homes damaged
+- LA3 Mexico to try 'El Chapo Isidro' itself despite US extradition request
+- LA4 WHO chief visits Cuba as health system deteriorates
 
-## Middle East (5)
-1. Israeli strike kills Hamas security chief in Gaza City — Reuters
-2. US discussing military training for Syrian forces — Reuters
-3. US envoy doubts Trump pledge to end $3.8bn Israel aid — Reuters
-4. Iraq PM orders state to run oilfields in Kurdish areas — Reuters
-5. Saudi condemns "terrorist attack" as Riyadh tower hit twice — SCMP
+## EUROPE (7)
+- EU1 Lukashenko offers to fly with Zelenskiy to Moscow for peace talks
+- EU2 Moscow accuses Estonia of acts 'on verge of triggering open war'
+- EU3 Spain's top court grants amnesty to ex-Catalan leader Puigdemont
+- EU4 UK sanctions five Myanmar generals over Rohingya genocide
+- EU5 School shooting in Serbia wounds two; teenage suspect arrested
+- EU6 UK logs record 5,258 heat-related deaths in 2026
+- EU7 Germany first to access Ukraine's Delta battlefield system
 
-## Africa (5)
-1. Ukraine says drones sank Russian warship off Libya — Reuters
-2. About 175 migrants missing after boat lost from Senegal — Reuters
-3. Fighting traps Ebola responders in DR Congo's Ituri — UN News
-4. Fire engulfs six Zanzibar hotels; 180 tourists evacuated — TOI
-5. Amnesty: Ethiopia, Tigray strikes may be war crimes — Reuters
+## MIDDLE EAST (6)
+- ME1 Houthi strike hits Riyadh's tallest tower; 11 injured — second hit in days
+- ME2 Iran says 4th tanker hit by naval mine in Strait of Hormuz
+- ME3 Iran rules out US talks until seven conditions are met
+- ME4 Israeli strikes in Gaza kill 7, incl. Hamas security chief, despite ceasefire
+- ME5 Eisenkot clinches first coalition deal in bid to form Israeli government
+- ME6 UK sanctions Houthis and four officials over renewed aggression
 
-## South Asia (5)
-1. India invokes 1943 Bengal famine at UN Security Council — TOI
-2. 5.3 quake jolts North Bengal and Sikkim — Shillong Times
-3. Hasina plans Dec 16 return; Dhaka vows arrest — Reuters
-4. India gives $1.62bn package to flood-hit Nepal — SRI
-5. Asia Cup Rising Stars: India A, Pakistan A reach semis — Tribune
+## AFRICA (5)
+- AF1 ~175 migrants missing after contact lost with boat from Senegal
+- AF2 Zambia opposition leader Mundubile charged with treason
+- AF3 Sudan RSF defectors join army in Khartoum
+- AF4 Fighting in DR Congo's Ituri traps Ebola responders near hospital
+- AF5 21 killed in cattle-camp attack in South Sudan's Tonj East
 
-## East Asia (5)
-1. China probes Shanghai chief Chen Jining, Politburo member — Xinhua
-2. North Korea threatens to shut Swiss office over sanctions — SCMP
-3. Russian jets enter South Korea's air defence zone — AP
-4. South Korea offers $375,000 to catch AI exam cheats — WSJ
-5. Japan to pay 2027 ICC contribution early, Takaichi says — Reuters
+## SOUTH ASIA (6)
+- SA1 Bangladesh begins typhoid vaccination drive for 50m children
+- SA2 Bangladesh rejects Hasina's plea to return: 'arrive as prisoner in handcuffs'
+- SA3 Magnitude 5.6 quake strikes Nepal near China border
+- SA4 Mobs hit ~100 Grameen Bank branches; Nobel laureate Yunus appeals for help
+- SA5 Awami League clashes in Bangladesh injure 30; four crude bombs detonated
+- SA6 Lahore world's most polluted major city as AQI hits 538
 
-## Southeast Asia (5)
-1. US blacklists Singapore cloud firm Megaspeed over chips — Politico
-2. Philippines deports 139 Indonesians in scam raid — Inquirer
-3. Indonesia factory fire toll rises to 26; 28 still missing — ASEANS
-4. Landmine casualties hit five-year high of 7,000 — SCMP
-5. US tariff probe names six ASEAN economies among 16 targets — WSJ
+## EAST ASIA (5)
+- EA1 China investigates Politburo member Chen Jining, Shanghai party chief
+- EA2 China extends suspension of some US export curbs on critical minerals
+- EA3 China opens Tiangong station to first foreign astronaut — Pakistan's Zeeshan Ali
+- EA4 South Korea warns after Russian jets enter its air defence zone
+- EA5 US blacklists Alibaba unit and Megaspeed in Nvidia chip scandal
 
-## Oceania (5)
-1. Australian shares hit six-month low as AI sell-off bites — Bus. Recorder
-2. Australia to treat AI as key foreign-policy issue — SCMP
-3. PNG votes on Bougainville independence — Evening Report
-4. Australia thrash France 92–0 to reach women's RLWC semis — BBC
-5. Australia pledges $4bn for remote housing — Evening Report
+## SOUTHEAST ASIA (4)
+- SE1 Indonesia seizes 405 tonnes of missile chemical from China-bound ship
+- SE2 Thai-Cambodia border fighting on hold after truce
+- SE3 14 nations back ICJ ruling on Myanmar's Rohingya genocide
+- SE4 Singapore investigates Megaspeed after US blacklisting
+
+## OCEANIA (3)
+- OC1 Solomon Islands to swap China security pact for Australia treaty
+- OC2 Australia warns US-China rivalry straining conflict safeguards
+- OC3 Nauru among states exiting ICC as Tajikistan starts withdrawal
+
+Total: 6+4+7+6+5+6+5+4+3 = 46 stories.
